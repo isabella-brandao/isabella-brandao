@@ -1,9 +1,8 @@
   ## Hii!! I'm Isabella Brandão 👩‍💻
  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: 
+- 🌱 I’m currently learning JAVA
+- 📫 How to reach me: isabella14brandao@gmail.com
+- ⚡ I'm a developer full-stack student
   
 <div align="center">
   <a href="https://github.com/bellabrandoni">
