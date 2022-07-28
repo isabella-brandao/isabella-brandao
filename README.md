@@ -13,7 +13,7 @@
   <a href="https://instagram.com/bellabrandoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabella14brandao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabella-brandao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a825ebd08b0e9e305e99fb2e4f13a3a3.gif" width="300" height="300" border="0" /" /></a><br /><a >
+ <img src="https://i.picasion.com/pic92/a825ebd08b0e9e305e99fb2e4f13a3a3.gif" width="300" height="300" border="0" /" /></a><br /><a >
 </div>
 
   ##
