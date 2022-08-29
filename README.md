@@ -2,7 +2,7 @@
  
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me: isabella14brandao@gmail.com
-- ⚡ I'm a developer full-stack student
+- ⚡ I'm a  full-stack developer student
   
 <div align="center">
   <a href="https://github.com/bellabrandoni">
