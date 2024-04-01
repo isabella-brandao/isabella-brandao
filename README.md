@@ -1,8 +1,8 @@
   ## Hii!! I'm Isabella Brandão 👩‍💻
  
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me: isabella14brandao@gmail.com
-- ⚡ I'm a  full-stack development student
+- 💻 I’m currently learning Python 🐍
+- 📃 How to reach me: isabella14brandao@gmail.com
+- ⚡ Packaged App Development at Accenture Brazil
   
 <div align="center">
   <a href="https://github.com/bellabrandoni">
