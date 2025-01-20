@@ -1,6 +1,6 @@
   ## Hii!! I'm Isabella Brandão 👩‍💻
  
-- 💻 I’m currently learning Python 🐍
+- 💻 I’m currently learning Data Analysis
 - 📃 How to reach me: isabella14brandao@gmail.com
 - ⚡ Packaged App Development at Accenture Brazil
   
