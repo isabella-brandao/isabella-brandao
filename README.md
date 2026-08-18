@@ -2,7 +2,7 @@
  
 - 💻 I’m currently learning Data Analysis
 - 📃 How to reach me: isabella14brandao@gmail.com
-- ⚡ Credit Risk Analysis at Bradesco 
+- ⚡ CRO Strategist | Santander 
   
 <div align="center">
   <a href="https://github.com/isabella-brandao">
